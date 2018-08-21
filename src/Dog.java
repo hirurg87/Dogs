@@ -4,7 +4,7 @@ public class Dog extends Animal implements Pet{
     String name;
 
     void bark() {
-        System.out.println("Гав! Гав!");
+        System.out.println("Гав! Гав! Гав!");
     }
 
     @Override
