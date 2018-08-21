@@ -14,6 +14,7 @@ public class AnimalTestDrive {
         System.out.println(c.hashCode());
         System.out.println(c.toString());
         System.out.println(c.getClass());
+        a.play();
         Hippo h = new Hippo("Baffi");
         System.out.println(h.getName());
         System.out.println(c.getName());
